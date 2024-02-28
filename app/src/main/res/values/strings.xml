@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoginApplication</string>
+    <string name="redirect_text1">Already Registered ? Login</string>
+    <string name="signup">SignUp</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="disp_text1">SignUp to continue</string>
+    <string name="redirect_text2">New user ? Signup</string>
+    <string name="disp_text2">Login</string>
+    <string name="login">Login</string>
+    <string name="content_desc">Logo</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
